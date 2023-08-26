@@ -1,0 +1,3 @@
+C:/Users/ali60/Desktop/Github/CMake-Exercises/02 - cmake/out/build/CMakeFiles/Deneme.dir
+C:/Users/ali60/Desktop/Github/CMake-Exercises/02 - cmake/out/build/CMakeFiles/edit_cache.dir
+C:/Users/ali60/Desktop/Github/CMake-Exercises/02 - cmake/out/build/CMakeFiles/rebuild_cache.dir
