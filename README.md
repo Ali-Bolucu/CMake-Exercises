@@ -28,6 +28,8 @@ add_executable(${PROJECT_NAME} main.cpp)  # Projenin adını kullanarak build i�
 
 # --03 - CMake : Compile and linking libraries
 
+"math.cpp" is not needed, all the code is in the "math.h" file but in order to cmake to determine type of file, .cpp file is created. 
+
 ``` cmake
 cmake_minimum_required(VERSION 3.26.5)
 set(CMAKE_CXX_STANDARD 17) # Sets the C++ version to be used
