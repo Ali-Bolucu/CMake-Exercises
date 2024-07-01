@@ -18,17 +18,17 @@ cmake -G "MinGW Makefiles" -S . -B out/build/
 ```
 
 -CMake
-```
+``` cmake
 cmake_minimum_required(VERSION 3.26.5)
 
-project(Deneme)  //Projenin adını belirliyor
+project(Deneme)  # Projenin adını belirliyor
 
-add_executable(${PROJECT_NAME} main.cpp)  //Projenin adını kullanarak build içine .exe dosyası oluşturuyor.
+add_executable(${PROJECT_NAME} main.cpp)  # Projenin adını kullanarak build içine .exe dosyası oluşturuyor.
 ```
 
 # --03 - CMake : Compile and linking libraries
 
-```
+``` cmake
 cmake_minimum_required(VERSION 3.26.5)
 set(CMAKE_CXX_STANDARD 17) # Sets the C++ version to be used
 set(CMAKE_CXX_STANDARD_REQUIRED ON) # Make the given c++ version mandatory
