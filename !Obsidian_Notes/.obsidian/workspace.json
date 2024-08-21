@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "61f621f49e4b124c",
+    "type": "split",
+    "children": [
+      {
+        "id": "139563e9d842c61f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8cafb23d15d5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - CMake/Professional CMake; A Practical Guide/Chapter 5. Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70639bf885144625",
+    "type": "split",
+    "children": [
+      {
+        "id": "4989422316e4e6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719a80cac3669a36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "811f6b439d6e8782",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b22d33661b30146a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a54568f6d047ff3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "376b27d81745f811",
+    "type": "split",
+    "children": [
+      {
+        "id": "b405bff828b7e538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5dca070b2ed7a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - CMake/Professional CMake; A Practical Guide/Chapter 5. Variables.md"
+              }
+            }
+          },
+          {
+            "id": "96cfc752ecd2c0bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - CMake/Professional CMake; A Practical Guide/Chapter 5. Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d494ed83220643dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - CMake/Professional CMake; A Practical Guide/Chapter 5. Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e4ad7c5c4587c8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "696ea20c7cde4a45",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "16189fd28ffe48c8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "431fc32ded126751",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "callout-manager:Insert Callout": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "fa8cafb23d15d5df",
+  "lastOpenFiles": [
+    "01 - CMake/Professional CMake; A Practical Guide/Chapter 4. Building Simple Targets.md",
+    "01 - CMake/Professional CMake; A Practical Guide/Chapter 5. Variables.md",
+    "01 - CMake/Professional CMake; A Practical Guide/Chapter 2. Setting Up A Project.md",
+    "01 - CMake/Professional CMake; A Practical Guide/Chapter 3. A Minimal Project.md",
+    "0 - EDX/05 - OpenSSL/Canva Notes/002 - Libcrypto.md",
+    "Untitled Kanban.md",
+    "0 - EDX/05 - OpenSSL/Canva Notes/001 -OpenSSL Libraries.md",
+    "01 - CMake/Professional CMake; A Practical Guide/Chapter 1. Introduction.md",
+    "0 - EDX/05 - OpenSSL/OpensSSL.canvas",
+    "0 - EDX/05 - OpenSSL/Canva Notes/003 - Libssl.md",
+    "0 - EDX/05 - OpenSSL/Canva Images/Pasted image 20240728224235.png",
+    "01 - CMake/!Images/Pasted image 20240821194245.png",
+    "01 - CMake/!Images",
+    "0 - EDX/10 - Linux Programming/Linux System Programming and Intro to Buildroot/Week2.md",
+    "01 - CMake/Professional CMake; A Practical Guide",
+    "01 - CMake",
+    "0 - EDX/10 - Linux Programming/Linux System Programming and Intro to Buildroot/Week1.md",
+    "0 - EDX/01 - Cmake/000 - Cmake Commands.md",
+    "0 - EDX/10 - Linux Programming/01 - Linux System Programming (LSP)/001 - Chapter 2 - File IO.md",
+    "0 - EDX/10 - Linux Programming/! - Images/Pasted image 20240809214803.png",
+    "0 - EDX/01 - Cmake",
+    "0 - EDX/10 - Linux Programming/! - Images",
+    "0 - EDX/10 - Linux Programming/! - Images/Pasted image 20240808010134.png",
+    "0 - EDX/01 - Linux Programming/Linux System Programming and Intro to Buildroot/Images/Untitled.md",
+    "0 - EDX/10 - Linux Programming/Linux System Programming and Intro to Buildroot/Images/Pasted image 20240808003922.png",
+    "0 - EDX/10 - Linux Programming/Linux System Programming and Intro to Buildroot/Images/Pasted image 20240808010055.png",
+    "0 - EDX/10 - Linux Programming/01 - Linux System Programming (LSP)",
+    "0 - EDX/05 - OpenSSL/Canva Notes/004 - Connection Phases.md",
+    "9 - Random/Eski PC.md",
+    "99 -Obsidian/Obsidian Kısayolları.md",
+    "99 -Obsidian/Features.md",
+    "0 - EDX/10 - Linux Programming/Linux System Programming and Intro to Buildroot/Images",
+    "Pasted image 20240808000145.png",
+    "0 - EDX/05 - OpenSSL/Canva Images",
+    "Untitled.md",
+    "Algorithms.md",
+    "0 - EDX/05 - OpenSSL/001 -.md",
+    "002 - libss.md",
+    "0 - EDX/05 - OpenSSL/Canva Notes/001-libcrypto.md",
+    "0 - EDX/05 - OpenSSL/Canva Notes/002 - libss.md",
+    "0 - EDX/05 - OpenSSL/Canva Notes/01-libcrypto.md",
+    "0 - EDX/05 - OpenSSL/Canva Notes",
+    "libcrypto.md",
+    "0 - EDX/05 - OpenSSL/Untitled 1.canvas",
+    "Excalidraw",
+    "Untitled.canvas"
+  ]
+}

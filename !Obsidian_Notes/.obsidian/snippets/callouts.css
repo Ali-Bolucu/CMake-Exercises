@@ -1,0 +1,23 @@
+.callout[data-callout="plain"] {
+    padding: 0px ;
+    background-color:#302a2a;
+    padding-left: 3em;
+}
+
+.callout[data-callout="plain"] .callout-title-inner,
+.callout[data-callout="plain"] .callout-icon {
+    display: none;
+}
+
+
+
+.callout[data-callout="code"] {
+    padding: 0px ;
+    background-color:#302a2a;
+    padding-left: 3em;
+}
+
+.callout[data-callout="plain"] .callout-title-inner,
+.callout[data-callout="plain"] .callout-icon {
+    display: none;
+}
