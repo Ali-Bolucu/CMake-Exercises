@@ -1,0 +1,5 @@
+C:/Users/aalib/Desktop/Git/CMake-Exercises/04 - optional build/build/CMakeFiles/anotherlib.dir
+C:/Users/aalib/Desktop/Git/CMake-Exercises/04 - optional build/build/CMakeFiles/App.dir
+C:/Users/aalib/Desktop/Git/CMake-Exercises/04 - optional build/build/CMakeFiles/my_math.dir
+C:/Users/aalib/Desktop/Git/CMake-Exercises/04 - optional build/build/CMakeFiles/edit_cache.dir
+C:/Users/aalib/Desktop/Git/CMake-Exercises/04 - optional build/build/CMakeFiles/rebuild_cache.dir

@@ -9,7 +9,7 @@ add_executable(targetName [WIN32] [MACOSX_BUNDLE]
 ```
 
 - WIN32
-	- When building the executable on a Windows platform, this option instructs CMake to build the executable as a Windows GUI application. In practice, this means it will be  reated with a WinMain() entry point instead of just main() and it will be linked with the /SUBSYSTEM:WINDOWS option. On all other platforms, the WIN32 option is ignored.
+	- When building the executable on a Windows platform, this option instructs CMake to build the executable as a Windows GUI application. In practice, this means it will be  related with a WinMain() entry point instead of just main() and it will be linked with the /SUBSYSTEM:WINDOWS option. On all other platforms, the WIN32 option is ignored.
 
 
 - EXCLUDE_FROM_ALL
