@@ -1,0 +1,6 @@
+D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build/CMakeFiles/App.dir
+D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build/CMakeFiles/Math.dir
+D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build/CMakeFiles/Anotherlib.dir
+D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build/CMakeFiles/build_all_excluded.dir
+D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build/CMakeFiles/edit_cache.dir
+D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build/CMakeFiles/rebuild_cache.dir

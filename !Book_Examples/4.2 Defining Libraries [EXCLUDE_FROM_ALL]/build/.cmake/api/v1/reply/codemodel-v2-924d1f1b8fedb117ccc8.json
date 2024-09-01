@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "optional_library_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App-Debug-f4d3cd2f5ca3368873ad.json",
+					"name" : "App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "anotherlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-anotherlib-Debug-700bdcdf8d7bb1c04517.json",
+					"name" : "anotherlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_math::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_math-Debug-a33163e72b2cf56f212f.json",
+					"name" : "my_math",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+		"source" : "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,11 @@
+ul li {
+    list-style-type: disc !important;
+}
+
+ul ul li {
+    list-style-type: circle !important;
+}
+
+ul ul ul li {
+    list-style-type: square !important;
+}

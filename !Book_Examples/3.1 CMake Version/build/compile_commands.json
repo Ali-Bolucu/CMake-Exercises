@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/a00876627/Desktop/CMake/Book-Examples/3.1 CMake Version/build",
+  "command": "C:/w64devkit/bin/c++.exe   -g -o CMakeFiles/myExe.dir/main.cpp.obj -c \"C:/Users/a00876627/Desktop/CMake/Book-Examples/3.1 CMake Version/main.cpp\"",
+  "file": "C:/Users/a00876627/Desktop/CMake/Book-Examples/3.1 CMake Version/main.cpp",
+  "output": "CMakeFiles/myExe.dir/main.cpp.obj"
+}
+]

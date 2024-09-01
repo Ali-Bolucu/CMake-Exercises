@@ -1,0 +1,5 @@
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.1 Variables [PARENT_SCOPE]/build/CMakeFiles/myExe.dir
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.1 Variables [PARENT_SCOPE]/build/CMakeFiles/edit_cache.dir
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.1 Variables [PARENT_SCOPE]/build/CMakeFiles/rebuild_cache.dir
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.1 Variables [PARENT_SCOPE]/build/AltKlasor/CMakeFiles/edit_cache.dir
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.1 Variables [PARENT_SCOPE]/build/AltKlasor/CMakeFiles/rebuild_cache.dir

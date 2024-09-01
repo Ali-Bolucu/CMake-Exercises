@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+  "command": "C:/w64devkit/bin/c++.exe -Danotherlib_EXPORTS  -g -o CMakeFiles/anotherlib.dir/anotherlib.cpp.obj -c \"C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/anotherlib.cpp\"",
+  "file": "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/anotherlib.cpp",
+  "output": "CMakeFiles/anotherlib.dir/anotherlib.cpp.obj"
+},
+{
+  "directory": "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+  "command": "C:/w64devkit/bin/c++.exe   -g -o CMakeFiles/App.dir/main.cpp.obj -c \"C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/main.cpp\"",
+  "file": "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/main.cpp",
+  "output": "CMakeFiles/App.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+  "command": "C:/w64devkit/bin/c++.exe -Dmy_math_EXPORTS  -g -o CMakeFiles/my_math.dir/math.cpp.obj -c \"C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/math.cpp\"",
+  "file": "C:/Users/a00876627/Desktop/CMake/Book-Examples/4.1 Executables [EXCLUDE_FROM_ALL]/math.cpp",
+  "output": "CMakeFiles/my_math.dir/math.cpp.obj"
+}
+]

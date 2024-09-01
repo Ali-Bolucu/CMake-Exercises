@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "optional_exe_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Anotherlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Anotherlib-Debug-abb6185ccc5b60464e52.json",
+					"name" : "Anotherlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App-Debug-0868cc2a6c944f74d399.json",
+					"name" : "App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Math::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Math-Debug-53827ed9575b95d620a1.json",
+					"name" : "Math",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "build_all_excluded::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build_all_excluded-Debug-772eead0fd0938bd11ff.json",
+					"name" : "build_all_excluded",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+		"source" : "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

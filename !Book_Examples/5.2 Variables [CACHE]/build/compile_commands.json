@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/a00876627/Desktop/CMake/Book-Examples/5.2 Variables [CACHE]/build",
+  "command": "C:/w64devkit/bin/c++.exe   -g -o CMakeFiles/myExe.dir/main.cpp.obj -c \"C:/Users/a00876627/Desktop/CMake/Book-Examples/5.2 Variables [CACHE]/main.cpp\"",
+  "file": "C:/Users/a00876627/Desktop/CMake/Book-Examples/5.2 Variables [CACHE]/main.cpp",
+  "output": "CMakeFiles/myExe.dir/main.cpp.obj"
+}
+]

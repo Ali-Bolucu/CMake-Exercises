@@ -1,0 +1,3 @@
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.2 Variables [CACHE]/build/CMakeFiles/myExe.dir
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.2 Variables [CACHE]/build/CMakeFiles/edit_cache.dir
+C:/Users/a00876627/Desktop/CMake/Book-Examples/5.2 Variables [CACHE]/build/CMakeFiles/rebuild_cache.dir

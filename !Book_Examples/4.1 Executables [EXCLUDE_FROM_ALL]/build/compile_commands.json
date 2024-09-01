@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+  "command": "C:/w64devkit/bin/c++.exe   -g -o CMakeFiles/App.dir/main.cpp.obj -c \"D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/main.cpp\"",
+  "file": "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/main.cpp",
+  "output": "CMakeFiles/App.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+  "command": "C:/w64devkit/bin/c++.exe   -g -o CMakeFiles/Math.dir/math.cpp.obj -c \"D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/math.cpp\"",
+  "file": "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/math.cpp",
+  "output": "CMakeFiles/Math.dir/math.cpp.obj"
+},
+{
+  "directory": "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/build",
+  "command": "C:/w64devkit/bin/c++.exe   -g -o CMakeFiles/Anotherlib.dir/anotherlib.cpp.obj -c \"D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/anotherlib.cpp\"",
+  "file": "D:/New folder/4.1 Executables [EXCLUDE_FROM_ALL]/anotherlib.cpp",
+  "output": "CMakeFiles/Anotherlib.dir/anotherlib.cpp.obj"
+}
+]
